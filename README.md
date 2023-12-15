@@ -18,6 +18,6 @@ Delve into the realm of Error-Correcting Output Codes, where precision meets com
 - **Hadamard**: An enchanting use of Hadamard matrices to crack the code in multiclass classification.
 
 ## Dive In!
-Feel free to explore the detailed implementations and insights in the provided Python (.py) files. Your questions and suggestions are highly valued - let's unravel the mysteries of multiclass classification together!
+Feel free to explore the detailed implementations and insights in the provided Python files. Your questions and suggestions are highly valued - let's unravel the mysteries of multiclass classification together!
 
 🌟 Happy exploring the world of multiclass classification algorithms! 🌟

@@ -17,7 +17,9 @@ Delve into the realm of Error-Correcting Output Codes, where precision meets com
 - **Réseaux Orthogonaux (Orthogonal Networks)**: A sophisticated approach employing orthogonal codes for effective classification.
 - **Hadamard**: An enchanting use of Hadamard matrices to crack the code in multiclass classification.
 
-## Dive In!
-Feel free to explore the detailed implementations and insights in the provided Python files. Your questions and suggestions are highly valued - let's unravel the mysteries of multiclass classification together!
+## Explore Further
+Feel free to delve into the intricacies of each algorithm by exploring the detailed implementations and insights provided in the accompanying Jupyter notebooks. Your curiosity is the compass guiding this journey into the realm of multiclass classification.
 
-🌟 Happy exploring the world of multiclass classification algorithms! 🌟
+🌟 We invite you to unravel the complexities, ask questions, and share your insights. Together, let's navigate the diverse landscape of multiclass classification algorithms!
+
+Happy exploration! 🌟
